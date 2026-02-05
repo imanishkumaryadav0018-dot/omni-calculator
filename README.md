@@ -1,2 +1,2 @@
 # omni-calculator
-a one step solutions to all type of calculations.
+a one step solutions to all type of calculations. 
